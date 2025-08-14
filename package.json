@@ -1,6 +1,7 @@
 {
   "name": "nyaysetu-backend",
   "version": "1.0.0",
+  "description": "Backend for Nyaysetu",
   "main": "server.js",
   "type": "module",
   "scripts": {
