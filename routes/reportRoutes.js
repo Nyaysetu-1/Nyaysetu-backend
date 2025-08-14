@@ -1,6 +1,5 @@
 import express from "express";
-import Report from "../models/Report.js";
-
+import Report from '../models/report.js'
 const router = express.Router();
 
 // ✅ Submit a report
